@@ -6,7 +6,7 @@ Sistema monolitico de gerenciamento de usuários, feito com nodejs e ejs.
 
 ### Tela de usuarios
 
-![Tela de Usuários]https://github.com/joshaodev/users-manager/blob/main/screenshots/usersList.png
+![Tela de Usuários](https://github.com/joshaodev/users-manager/blob/main/screenshots/usersList.png)
 
 
 ### 📋 Pré-requisitos
